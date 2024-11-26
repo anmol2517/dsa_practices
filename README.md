@@ -1,1 +1,1 @@
-# dsa_practices
+# dsa_practice
